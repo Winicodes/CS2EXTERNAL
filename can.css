@@ -1,0 +1,37 @@
+h1{
+    color:white;
+    border-right: 50px;
+    border-left:none;
+    width: 700px;
+   
+   
+    color:white;
+    
+}
+h2{
+    border: thin solid white;
+padding: 20px 20px 20px 20px;
+color:white;
+}
+
+h3{
+    border: thin solid white;
+padding: 20px 20px 20px 20px;
+color:white;
+background-color:black;
+}
+
+hr{
+    border:thin solid white;
+}
+
+h4{
+    color:white;
+}
+
+button{
+    margin-top:3none;
+    margin-bottom: auto;
+margin-right:20px;
+    margin-left:400px;
+}
